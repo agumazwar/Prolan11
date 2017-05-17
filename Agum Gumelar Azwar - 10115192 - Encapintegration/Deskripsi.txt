@@ -1,0 +1,8 @@
+Perbedaan Antara Abstrack dan encapsulation
+1. Encapsulation tidak memerluka Overrload Sedangkan Abstrack Membutuhkan
+2. Dari Sudut Pandang data hidding Abstack tidak kelihatan Methodnya Sedangkan encapsulation Tidak Kelihatan valuenya
+3. Penggunaan encapsulation Lebih Simpel
+4. Abstack Harus Di inheritenskan Sedangkan encapsulation Tidak Harus
+5. Encapsulation hanya Real only (Dibaca Saja)
+
+
